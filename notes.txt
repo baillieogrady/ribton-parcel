@@ -1,0 +1,19 @@
+-template
+https://preview.themeforest.net/item/ribton-product-landing-page/full_screen_preview/25897391?_ga=2.164587135.170062314.1587242468-1630632801.1586424589
+
+-icons
+https://www.graphicsfuel.com/2017/06/90-daily-essential-icons/
+
+-images
+https://preview.themeforest.net/item/ribton-product-landing-page/full_screen_preview/25897391?_ga=2.164587135.170062314.1587242468-1630632801.1586424589
+
+-laptop image
+https://unsplash.com/photos/v_bri4iVuiM
+
+- fonts
+
+Poppins
+- 600
+
+Open sans
+- 400
