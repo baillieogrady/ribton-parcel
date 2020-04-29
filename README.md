@@ -9,19 +9,25 @@ The purpose was to demonstrate the stages I take to build simple static websites
 
 ## Development
 
+### Requirements
+
+Make sure all dependencies have been installed before moving on:
+
+* [Node.js](https://nodejs.org/en/)
+
 ### Installation
+
+Install parcel:
+
+```
+$ npm install -g parcel-bundler
+```
 
 Clone this repo:
 
 ```
 $ git clone https://github.com/baillieogrady/ribton-parcel
 ```
-
-### Requirements
-
-Make sure all dependencies have been installed before moving on:
-
-* [Node.js](https://nodejs.org/en/)
 
 ### Build commands
 
